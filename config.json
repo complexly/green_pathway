@@ -8,14 +8,14 @@
     "text": "Yang LI"
   },
   "text": {
-    "more": "Green pathway in patent data",
-    "intro": "Green pathway",
-    "title": "Green Pathway in patent"
+    "more": "Infered green pathways",
+    "intro": "Infered green pathways",
+    "title": "infered dependency"
   },
   "legend": {
-    "edgeLabel": "use",
-    "colorLabel": "type",
-    "nodeLabel": "technology"
+    "edgeLabel": "association",
+    "colorLabel": "types",
+    "nodeLabel": "groups"
   },
   "features": {
     "search": true,
